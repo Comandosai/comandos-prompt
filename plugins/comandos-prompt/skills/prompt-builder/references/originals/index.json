@@ -1,0 +1,38 @@
+{
+  "approaches.txt": {
+    "bytes": 32094,
+    "sha256": "1d3cbcf8834668376d77e2e6bc939d4828b715db9e24c2eddb67c8de72231788"
+  },
+  "fine-settings.txt": {
+    "bytes": 19638,
+    "sha256": "4bb8e1a8906988aba40f68b77fd63f14e48f609b7687d5fc638c6afb6701e0ae"
+  },
+  "master-guide.txt": {
+    "bytes": 25198,
+    "sha256": "bcd766e2818a247d41e2f2b508fbdcdd99257a0d9a1a7b39a07a8adb6eff2561"
+  },
+  "practice.txt": {
+    "bytes": 25512,
+    "sha256": "8d7112a2e0190a9eff2c29cca7c3f2d2f5dad562c4a0854ace16c1d2537f1bf4"
+  },
+  "profi-cheatsheet.txt": {
+    "bytes": 7537,
+    "sha256": "16b372540ab91efbbcc2a32cd9e5bd97a6e6c44f9bc01b097d30e137dc6e2a92"
+  },
+  "profi-full.txt": {
+    "bytes": 34598,
+    "sha256": "369723a9b9406390404ad5f179233ab4483d470006e46232021ba6ed690a4baa"
+  },
+  "sales-prompts.txt": {
+    "bytes": 25448,
+    "sha256": "665dce46fc71ad97fbabae0e89943ff6a0a123f745394c9ea07a0187c2d80781"
+  },
+  "settings.txt": {
+    "bytes": 32102,
+    "sha256": "805b270ff83e7912ffda3b2193364a82fe65d24e566eed668b06aecf0918e388"
+  },
+  "system-prompts.txt": {
+    "bytes": 20564,
+    "sha256": "36210a08e3b7a06210553db9865335f08684595e74cf4ada58dca8266515604a"
+  }
+}

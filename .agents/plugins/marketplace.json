@@ -1,0 +1,20 @@
+{
+  "name": "comandos-prompt-local",
+  "interface": {
+    "displayName": "COMANDOS Prompt"
+  },
+  "plugins": [
+    {
+      "name": "comandos-prompt",
+      "source": {
+        "source": "local",
+        "path": "./plugins/comandos-prompt"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
